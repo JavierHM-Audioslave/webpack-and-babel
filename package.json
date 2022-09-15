@@ -1,6 +1,6 @@
 {
   "name": "webpack-and-babel",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "description": "Practicing the creation of a React project through Webpack and Babel",
   "main": "index.js",
   "scripts": {
