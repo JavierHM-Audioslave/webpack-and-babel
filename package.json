@@ -4,6 +4,7 @@
   "description": "Practicing the creation of a React project through Webpack and Babel",
   "main": "index.js",
   "scripts": {
+    "build": "webpack --watch",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
