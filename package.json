@@ -1,0 +1,19 @@
+{
+  "name": "webpack-and-babel",
+  "version": "1.0.0",
+  "description": "Practicing the creation of a React project through Webpack and Babel",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JavierHM-Audioslave/webpack-and-babel.git"
+  },
+  "author": "Javier Monardo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JavierHM-Audioslave/webpack-and-babel/issues"
+  },
+  "homepage": "https://github.com/JavierHM-Audioslave/webpack-and-babel#readme"
+}
