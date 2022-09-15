@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/JavierHM-Audioslave/webpack-and-babel/issues"
   },
-  "homepage": "https://github.com/JavierHM-Audioslave/webpack-and-babel#readme"
+  "homepage": "https://github.com/JavierHM-Audioslave/webpack-and-babel#readme",
+  "devDependencies": {
+    "webpack": "^5.74.0",
+    "webpack-cli": "^4.10.0"
+  }
 }
